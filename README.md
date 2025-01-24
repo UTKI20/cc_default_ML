@@ -1,5 +1,5 @@
 # cc_default_ML
-I made an ML project to  predict the possibilities of a particular credit card holder being a default.
+I made a ML project to  predict the possibilities of a particular credit card holder being a default.
 This project was a hackathon problem solution for the hackathon named "CONVOLVE" organised by IIT GUWAHATI.
 A CSV file for development data was attached which consisted of random sample of 96,806 Credit Cards along with the validation data of  random sample of 41,792 Credit Card details.
 The machine had to be trained using the development data which already consisted of a variable named “bad_flag”,where “bad_flag=1” suggested that the given account holder is a default.
