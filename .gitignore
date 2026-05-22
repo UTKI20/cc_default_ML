@@ -1,0 +1,8 @@
+*.zip
+Dev_data_to_be_shared.csv
+validation_data_to_be_shared.csv
+copy_of_credit_card_det.py
+doc1_text.txt
+doc2_text.txt
+temp_doc1/
+temp_doc2/
